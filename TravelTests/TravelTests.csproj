@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Travel\Travel.csproj" />
+    <ProjectReference Include="..\Travel\Atencion.csproj" />
   </ItemGroup>
 
 </Project>

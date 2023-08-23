@@ -3816,11 +3816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\Travel.csproj",
-      "projectName": "Travel",
-      "projectPath": "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\Travel.csproj",
+      "projectUniqueName": "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\Atencion.csproj",
+      "projectName": "Atencion",
+      "projectPath": "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\Atencion.csproj",
       "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\obj\\",
+      "outputPath": "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config",

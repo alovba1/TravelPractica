@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\Travel.csproj": {}
+    "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\Travel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\Travel.csproj": {
+    "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\Travel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\Travel.csproj",
+        "projectUniqueName": "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\Travel.csproj",
         "projectName": "Travel",
-        "projectPath": "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\Travel.csproj",
+        "projectPath": "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\Travel.csproj",
         "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\obj\\",
+        "outputPath": "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nby9qtpPFEGDyxF4EPlz4G2Aj+xuaMjiybsJAMX0LATPHDy/BcCx88ZxoRviTCVa4rzqw/ilir1STl2XCS5T5g==",
+  "dgSpecHash": "ZREj6+FvjIAq6TK1qJax7tpeJv9AjXL5oqhQ7b4vI1cNqWa38lOidjlzslUdorpXahbUCvZsvRT4Yy684ucCzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Personal\\source\\repos\\Travel\\Travel\\Travel.csproj",
+  "projectFilePath": "C:\\Users\\Personal\\source\\repos\\AtenicionInfancia\\Travel\\Atencion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Personal\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Personal\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

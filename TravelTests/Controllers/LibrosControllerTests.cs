@@ -12,19 +12,19 @@ using Travel.DrivenAdapters.SqlServer;
 namespace Travel.Controllers.Tests
 {
     [TestClass()]
-    public class LibrosControllerTests
+    public class AtencionControllerTests
     {
-        public readonly InventarioDbContext? _inventarioDbContext;
+        public readonly AtencionDbContext? _inventarioDbContext;
         [TestMethod()]
         public void  GetAllLibrosTest()
         {
-            List<Domain.Model.Libros> lis = new();
-            lis.Add(new Domain.Model.Libros {Titulo="Desarrollo Aplicaciones" });
-            lis.Add(new Domain.Model.Libros { Sinopsis = "Generacion" });
-            lis.Add(new Domain.Model.Libros { N_paginas = "2444" });
-            using var libros = _inventarioDbContext.Libros.ToListAsync();
-            Assert.Equals(lis, libros);
-            Assert.AreEqual(lis, libros);
+            List<Domain.Model.Persona> lis = new();
+            lis.Add(new Domain.Model.Persona { TipoIdentificacion = "Desarrollo Aplicaciones" });
+            lis.Add(new Domain.Model.Persona { NroIdentificacion = "Generacion" });
+            lis.Add(new Domain.Model.Persona { PrimerNombre = "2444" });
+            using var persona = _inventarioDbContext.Persona.ToListAsync();
+            Assert.Equals(lis, persona);
+            Assert.AreEqual(lis, persona);
           
         }
     }
